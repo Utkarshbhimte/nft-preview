@@ -96,6 +96,14 @@ function App() {
           >
             0xBhaisaab.
           </a>{" "}
+          Check out the code{" "}
+          <a
+            className="underline text-indigo-700"
+            target="__blank"
+            href="https://github.com/Utkarshbhimte/nft-preview"
+          >
+            here
+          </a>
         </div>
       </div>
     </div>
